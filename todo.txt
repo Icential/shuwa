@@ -1,4 +1,3 @@
-- improve testing accuracy
-- experiment with PCA to minimize data features
-- use a GNN neural network instead of forests
+- experiment with PCA to minimize data feature size
+- improve accuracy for GCN
 - preprocess data to grids for CNN model testing
